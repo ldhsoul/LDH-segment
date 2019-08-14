@@ -1,0 +1,11 @@
+/* 
+  MyLocalizable.strings
+  MY
+
+  Created by fubang on 2017/7/19.
+  Copyright © 2017年 fubang. All rights reserved.
+*/
+DHUserMyRealName = "实名认证";
+DHUserMyAccount = "账户信息";
+DHUserMyRealName2 = "实名认证2";
+DHUserMyAccount2 = "账户信息2";
